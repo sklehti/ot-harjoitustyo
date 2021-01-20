@@ -67,3 +67,4 @@ https://github.com/sklehti/ot-harjoitustyo/blob/master/laskarit/viikko1/komentor
 komentorivi.txt
 
 
+Tehdään muutos samaan aikaan..
