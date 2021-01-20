@@ -58,3 +58,11 @@ mojombo#1
 mojombo/github-flavored-markdown#1
 
 ~~this~~
+
+Linkit tiedostoihin:
+https://github.com/sklehti/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt
+gitlog.txt
+
+https://github.com/sklehti/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt
+komentorivi.txt
+
