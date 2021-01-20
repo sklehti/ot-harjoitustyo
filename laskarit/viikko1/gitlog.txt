@@ -1,0 +1,124 @@
+commit 9052c83a5a6a0046dae8caf4b06bc2fb3532712a
+Author: Saara Lehtinen <saaralehtinen77@gmail.com>
+Date:   Thu Jan 7 10:54:34 2021 +0200
+
+    toimiiko oikein?
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 9e801355526f86e815512166882ede753e4edcdb
+Author: Saara Lehtinen <saaralehtinen77@gmail.com>
+Date:   Thu Jan 7 10:42:11 2021 +0200
+
+    luotu kansio ja kolme tiedostoa
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit ebfac65a7c027623f00c78d5099f98c25f2dcf39
+Author: Saara Lehtinen <saaralehtinen77@gmail.com>
+Date:   Thu Jan 7 10:31:54 2021 +0200
+
+    väärä muutos
+
+ kolmas.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit e0210840ecc684bbe138cd4febed8662f7e1e3c5
+Author: Saara Lehtinen <saaralehtinen77@gmail.com>
+Date:   Thu Jan 7 10:24:21 2021 +0200
+
+    lisäyksiä ja poistoja
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 70f4fa4f64515eef0711f6ec718bd01379fdb09f
+Author: Saara Lehtinen <saaralehtinen77@gmail.com>
+Date:   Thu Jan 7 10:21:28 2021 +0200
+
+    muutostekstiin tiedostossa eka.txt
+
+ eka.txt      | 3 +++
+ tiedosto.txt | 3 ---
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+
+commit 1edab6f20af71b0266d01f864cd247ab167edca4
+Author: Saara Lehtinen <saaralehtinen77@gmail.com>
+Date:   Thu Jan 7 10:13:25 2021 +0200
+
+    poistettu toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 0bdc2dfab22aa0f78a2d6076f0e2004ad7d0c2f2
+Author: Saara Lehtinen <saaralehtinen77@gmail.com>
+Date:   Mon Jan 4 14:17:48 2021 +0200
+
+    poistettu tekstiä
+
+ tiedosto.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 5ae788dbd8d0378968122588dd400340da2112dc
+Author: Saara Lehtinen <saaralehtinen77@gmail.com>
+Date:   Mon Jan 4 14:16:27 2021 +0200
+
+    netistä tekstiä
+
+ tiedosto.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 73209d0d855f34246f70937cd26965f495e4db9d
+Author: Saara Lehtinen <saaralehtinen77@gmail.com>
+Date:   Mon Jan 4 14:06:05 2021 +0200
+
+    loppu kommentit
+
+ stuff/neljas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 73c8c93d03e7880fd96b1ae1ebb4243f02c8681d
+Author: Saara Lehtinen <saaralehtinen77@gmail.com>
+Date:   Mon Jan 4 14:03:43 2021 +0200
+
+    valmis
+
+ kolmas.txt | 1 +
+ master     | 0
+ toinen.txt | 2 +-
+ 3 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 128cc81abf33596fc3069253e6f8b242adaa56a6
+Author: Saara Lehtinen <saaralehtinen77@gmail.com>
+Date:   Mon Jan 4 14:01:51 2021 +0200
+
+    harjoittelua
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 14b7482b4437e94ea34ec2608a0240bda2094f92
+Author: Saara Lehtinen <saaralehtinen77@gmail.com>
+Date:   Mon Jan 4 13:53:59 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 83cf5a03c7695f076de2ebdafaf386e4ef0d41ef
+Author: Saara Lehtinen <saaralehtinen77@gmail.com>
+Date:   Mon Jan 4 13:41:40 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
